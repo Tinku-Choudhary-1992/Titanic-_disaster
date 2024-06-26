@@ -4,7 +4,8 @@ The Titanic is one of the most famous ships in history, primarily known for its 
 
 The RMS Titanic was a British passenger liner operated by the White Star Line. It was built at the Harland and Wolff shipyard in Belfast, Northern Ireland, and was one of the largest and most luxurious ships of its time. Construction began in 1909 and was completed in 1912.
 
-https://media.npr.org/assets/img/2012/03/29/titanic_custom-a7161a7b82be4249365df5349d977dc0a652102a.jpg?s=900&c=85&f=webp
+![titanic](https://github.com/Tinku-Choudhary-1992/Titanic-_disaster/assets/162289654/8594f70f-a41a-489e-a981-cae88896596d)
+
 
 The Titanic was famously touted as "unsinkable" due to its advanced safety features, including watertight compartments and a double-bottom hull. On its maiden voyage from Southampton to New York City in April 1912, tragedy struck when the ship struck an iceberg and sank in the North Atlantic Ocean.
 
